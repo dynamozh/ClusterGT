@@ -1,0 +1,41 @@
+Brotli @ file:///tmp/abs_ecyw11_7ze/croots/recipe/brotli-split_1659616059936/work
+certifi @ file:///croot/certifi_1700501669400/work/certifi
+cffi @ file:///croot/cffi_1700254295673/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+cryptography @ file:///croot/cryptography_1694444244250/work
+gtrick==0.0.dev2
+idna @ file:///croot/idna_1666125576474/work
+Jinja2 @ file:///croot/jinja2_1666908132255/work
+joblib @ file:///croot/joblib_1685113087166/work
+MarkupSafe @ file:///opt/conda/conda-bld/markupsafe_1654597864307/work
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+networkx==3.2.1
+numpy @ file:///croot/numpy_and_numpy_base_1695830428084/work/dist/numpy-1.26.0-cp39-cp39-linux_x86_64.whl#sha256=6c17acd1e1c4a5ebb5d14a2b7abe3d296469c0dd858a8b623abc1f4603184a9d
+pandas==2.2.0
+Pillow @ file:///croot/pillow_1696580024257/work
+psutil @ file:///opt/conda/conda-bld/psutil_1656431268089/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyg-lib==0.3.1+pt113cu116
+pyOpenSSL @ file:///croot/pyopenssl_1690223430423/work
+pyparsing @ file:///opt/conda/conda-bld/pyparsing_1661452539315/work
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
+python-dateutil==2.8.2
+pytz==2024.1
+rdkit==2023.9.5
+requests @ file:///croot/requests_1690400202158/work
+scikit-learn @ file:///croot/scikit-learn_1690978916802/work
+scipy @ file:///croot/scipy_1696543286448/work/dist/scipy-1.11.3-cp39-cp39-linux_x86_64.whl#sha256=dcbb203d235b027eaa2fed4fd131e9dc0e2b3f8eae9458e3f2e848a2718b22f2
+six==1.16.0
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+torch==1.13.1
+torch-scatter==2.1.1+pt113cu116
+torch-sparse==0.6.17+pt113cu116
+torch_geometric @ file:///usr/share/miniconda/envs/test/conda-bld/pyg_1697447357306/work
+torchaudio==0.13.1
+torchvision==0.14.1
+tqdm @ file:///croot/tqdm_1679561862951/work
+typing_extensions @ file:///croot/typing_extensions_1690297465030/work
+tzdata==2024.1
+urllib3 @ file:///croot/urllib3_1698257533958/work
